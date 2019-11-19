@@ -1,0 +1,5 @@
+Player.log
+**/*.png
+cache/
+save_files/auto_save
+
