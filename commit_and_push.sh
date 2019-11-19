@@ -1,6 +1,5 @@
 #!/bin/bash
 
-git add .
-commit
+./commit.sh
 git push
 
