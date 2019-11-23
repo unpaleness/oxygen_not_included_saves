@@ -1,5 +1,6 @@
 Player.log
 **/*.png
+prefs
 cache/
-save_files/auto_save
+save_files/auto_save/
 
