@@ -4,7 +4,7 @@ strings:
   SelectedLanguageCode: ''
   SaveFilenameKey/: C:\Users\mrmrchashki\Documents\Klei\OxygenNotIncluded\save_files/The Luckless Comet.sav
 ints:
-  SESSION_ID: 70
+  SESSION_ID: 73
   ResolutionWidth: 1920
   ResolutionHeight: 1080
   RefreshRate: 144
@@ -12,7 +12,7 @@ ints:
   PatchNotesVersion: 9
   InstalledLanguage: 0
   GAME_ID: 5
-  NextUniqueID: 1533044
+  NextUniqueID: 1665666
   AlwaysPlayAutomation: 1
   MuteOnFocusLost: 0
   LowResTextures: 0
