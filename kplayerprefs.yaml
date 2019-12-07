@@ -13,9 +13,9 @@ ints:
   PatchNotesVersion: 9
   InstalledLanguage: 0
   GAME_ID: 5
-  NextUniqueID: 2697355
+  NextUniqueID: 2903749
   AlwaysPlayAutomation: 1
-  MuteOnFocusLost: 0
+  MuteOnFocusLost: 1
   LowResTextures: 0
 floats:
   Volume_SFX: 1
