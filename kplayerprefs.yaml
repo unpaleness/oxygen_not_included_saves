@@ -2,18 +2,18 @@ strings:
   INSTALL_TIMESTAMP: 637076287171955730
   SelectedLanguageType: None
   SelectedLanguageCode: ''
-  SaveFilenameKey/: /home/unpaleness/.config/unity3d/Klei/Oxygen Not Included/save_files/The Luckless Comet.sav
+  SaveFilenameKey/: C:\Users\mrmrchashki\Documents\Klei\OxygenNotIncluded\save_files/The Luckless Comet.sav
   DisableDataCollection: yes
 ints:
   SESSION_ID: 88
   ResolutionWidth: 1920
   ResolutionHeight: 1080
-  RefreshRate: 60
+  RefreshRate: 144
   FullScreen: 1
   PatchNotesVersion: 9
   InstalledLanguage: 0
   GAME_ID: 5
-  NextUniqueID: 3195787
+  NextUniqueID: 3199005
   AlwaysPlayAutomation: 1
   MuteOnFocusLost: 1
   LowResTextures: 0
