@@ -5,7 +5,7 @@ strings:
   SaveFilenameKey/: /home/unpaleness/.config/unity3d/Klei/Oxygen Not Included/save_files/The Swanky Crater.sav
   DisableDataCollection: yes
 ints:
-  SESSION_ID: 92
+  SESSION_ID: 93
   ResolutionWidth: 1920
   ResolutionHeight: 1080
   RefreshRate: 60
@@ -13,7 +13,7 @@ ints:
   PatchNotesVersion: 9
   InstalledLanguage: 0
   GAME_ID: 5
-  NextUniqueID: 3887226
+  NextUniqueID: 3900711
   AlwaysPlayAutomation: 1
   MuteOnFocusLost: 1
   LowResTextures: 0
