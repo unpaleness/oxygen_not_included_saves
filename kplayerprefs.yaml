@@ -2,18 +2,18 @@ strings:
   INSTALL_TIMESTAMP: 637076287171955730
   SelectedLanguageType: None
   SelectedLanguageCode: ''
-  SaveFilenameKey/: C:\Users\mrmrchashki\Documents\Klei\OxygenNotIncluded\save_files/The Swanky Crater.sav
+  SaveFilenameKey/: /home/unpaleness/.config/unity3d/Klei/Oxygen Not Included/save_files/The Swanky Crater.sav
   DisableDataCollection: yes
 ints:
-  SESSION_ID: 93
+  SESSION_ID: 96
   ResolutionWidth: 1920
   ResolutionHeight: 1080
-  RefreshRate: 144
+  RefreshRate: 60
   FullScreen: 1
   PatchNotesVersion: 9
   InstalledLanguage: 0
   GAME_ID: 5
-  NextUniqueID: 4277287
+  NextUniqueID: 4429836
   AlwaysPlayAutomation: 1
   MuteOnFocusLost: 1
   LowResTextures: 0
