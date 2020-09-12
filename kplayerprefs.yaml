@@ -2,21 +2,27 @@ strings:
   INSTALL_TIMESTAMP: 637076287171955730
   SelectedLanguageType: None
   SelectedLanguageCode: ''
-  SaveFilenameKey/: /home/unpaleness/.config/unity3d/Klei/Oxygen Not Included/save_files/The Swanky Crater.sav
+  SaveFilenameKey/: C:\Users\mrmrchashki\Documents\Klei\OxygenNotIncluded\save_files/The Grimy Factory.sav
   DisableDataCollection: yes
+  SandboxTools.SelectedEntity: MushBar
+  SandboxTools.SelectedDisease: FoodPoisoning
 ints:
   SESSION_ID: 96
   ResolutionWidth: 1920
   ResolutionHeight: 1080
-  RefreshRate: 60
+  RefreshRate: 144
   FullScreen: 1
   PatchNotesVersion: 9
   InstalledLanguage: 0
   GAME_ID: 5
-  NextUniqueID: 4429836
+  NextUniqueID: 5545640
   AlwaysPlayAutomation: 1
   MuteOnFocusLost: 1
   LowResTextures: 0
+  SandboxTools.SelectedElement: 125
+  SandboxTools.DiseaseCount: 0
+  SandboxTools.BrushSize: 1
+  ColorModeID: 0
 floats:
   Volume_SFX: 1
   Volume_Music: 1
@@ -24,3 +30,8 @@ floats:
   Volume_Master: 1
   Volume_UI: 1
   UIScalePref: 100
+  SandboxTools.NoiseScale: 1
+  SandboxTools.NoiseDensity: 1
+  SandboxTools.Mass: 1
+  SandbosTools.Temperature: 300
+  SandbosTools.TemperatureAdditive: 5
